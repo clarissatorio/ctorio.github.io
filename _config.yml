@@ -2,6 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+theme: -folio
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Clarissa
 middle_name: 
